@@ -1,73 +1,121 @@
-# Welcome to your Lovable project
+# AgriSure - Farmer Transparency Platform
 
-## Project info
+**Team F3 Hackathon Project**
 
-**URL**: https://lovable.dev/projects/80340055-f5b9-4ebd-9f04-690478b562b8
+A comprehensive platform designed to eliminate corruption and increase transparency in government schemes for farmers.
 
-## How can I edit this code?
+## Team Members
 
-There are several ways of editing your application.
+- **Sudeep Kushwaha** - BackEnd Developer
+- **Abhishek** - Research & Data Management
+- **Vikas Choudhary** - FrontEnd Developer & UI/UX Designer 
 
-**Use Lovable**
+## Project Overview
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/80340055-f5b9-4ebd-9f04-690478b562b8) and start prompting.
+AgriSure is a revolutionary platform that bridges the gap between farmers and government agricultural schemes, ensuring transparency and eliminating corruption in the process.
 
-Changes made via Lovable will be committed automatically to this repo.
+## Key Features
 
-**Use your preferred IDE**
+### 🌾 Government Schemes Management
+- Track PM-KISAN Scheme (₹6,000 annual support)
+- Pradhan Mantri Fasal Bima Yojana (Crop Insurance)
+- Soil Health Card Program
+- Real-time application status tracking
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 📊 Mandi Price Intelligence
+- Live market prices across multiple locations
+- Transport cost calculations
+- Net profit analysis and recommendations
+- Price trend indicators with percentage changes
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 💰 Benefits Tracking
+- Comprehensive benefit management dashboard
+- Financial analytics and reporting
+- Scheme eligibility checker
 
-Follow these steps:
+### 🛡️ Anti-Corruption Module
+- Anonymous whistleblower reporting system
+- Secure complaint filing against corrupt officials
+- Protected under Whistleblower Protection Act
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 👤 Farmer Profile Management
+- Personal dashboard for farmers
+- Application history and status tracking
+- Document management system
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Technology Stack
 
-# Step 3: Install the necessary dependencies.
-npm i
+- **Frontend**: React 18 + TypeScript
+- **Build Tool**: Vite
+- **Styling**: Tailwind CSS + shadcn/ui
+- **Routing**: React Router v6
+- **State Management**: TanStack Query
+- **Charts**: Recharts
+- **Form Handling**: React Hook Form + Zod validation
+- **Database**: MongoDB
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## Getting Started
+
+### Prerequisites
+- Node.js (v18 or higher)
+- npm or yarn package manager
+
+### Installation
+
+```bash
+# Clone the repository
+git clone <repository-url>
+
+# Navigate to project directory
+cd agrisure
+
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### Available Scripts
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+npm run dev      # Start development server
+npm run build    # Build for production
+npm run preview  # Preview production build
+npm run lint     # Run ESLint
+```
 
-**Use GitHub Codespaces**
+## Project Structure
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+```
+src/
+├── components/
+│   ├── home/           # Landing page components
+│   ├── layout/         # Header, navigation
+│   └── ui/             # Reusable UI components
+├── pages/              # Route components
+│   ├── Index.tsx       # Landing page
+│   ├── Schemes.tsx     # Government schemes
+│   ├── MandiPrices.tsx # Market prices
+│   ├── Benefits.tsx    # Benefits tracking
+│   ├── ReportCorruption.tsx # Corruption reporting
+│   └── Profile.tsx     # User profile
+├── lib/                # Utilities and helpers
+└── hooks/              # Custom React hooks
+```
 
-## What technologies are used for this project?
+## Deployment
 
-This project is built with:
+This project is optimized for deployment on:
+- Netlify  
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
+## Mission Statement
 
-Simply open [Lovable](https://lovable.dev/projects/80340055-f5b9-4ebd-9f04-690478b562b8) and click on Share -> Publish.
+**"Empowering farmers through transparency, eliminating corruption, and ensuring direct access to government benefits."**
 
-## Can I connect a custom domain to my Lovable project?
+AgriSure represents our commitment to leveraging technology for social good, specifically addressing the challenges faced by farmers in accessing government schemes and fair market prices.
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**Developed with ❤️ by Team F3**
