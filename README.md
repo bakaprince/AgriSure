@@ -9,7 +9,7 @@ A comprehensive platform designed to eliminate corruption and increase transpare
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="e" alt="Sudeep"/>
+<img src="https://img.shields.io/badge/👨‍💻-SUDEEP%20KUSHWAHA-blue?style=for-the-badge" alt="Sudeep"/>
 <br><strong>FullStack Developer</strong>
 <br>🔧 Backend Architecture & API Development
 </td>
