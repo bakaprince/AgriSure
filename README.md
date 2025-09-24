@@ -91,17 +91,33 @@
 
 ---
 
-## Technology Stack
+## 🛠️ Cutting-Edge Technology Stack
 
-- **Frontend**: React 18 + TypeScript
-- **Build Tool**: Vite
-- **Styling**: Tailwind CSS + shadcn/ui
-- **Routing**: React Router v6
-- **State Management**: TanStack Query
-- **Charts**: Recharts
-- **Form Handling**: React Hook Form + Zod validation
-- **Database**: MongoDB
+<div align="center">
 
+### Frontend Powerhouse
+![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5.4.19-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Design & Styling
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-3.4.17-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn](https://img.shields.io/badge/shadcn/ui-Design%20System-000000?style=for-the-badge)
+
+### State & Data Management
+![TanStack](https://img.shields.io/badge/TanStack%20Query-5.83.0-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-6.30.1-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+
+### Database & Backend
+![MongoDB](https://img.shields.io/badge/MongoDB-6.20.0-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-8.18.2-880000?style=for-the-badge)
+
+### Analytics & Charts
+![Recharts](https://img.shields.io/badge/Recharts-2.15.4-8884D8?style=for-the-badge)
+
+</div>
+
+---
 ## Getting Started
 
 ### Prerequisites
