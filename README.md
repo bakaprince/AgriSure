@@ -250,7 +250,9 @@ npm run dev
 
 ## 🤝 Connect with Team F3
 
-[![GitHub](https://img.shields.io/badge/GitHub-bakaprince-black?style=for-the-badge&logo=github)](https://github.com/bakaprince/AgriSure)
+[![GitHub](https://img.shields.io/badge/GitHub-Sudeep-black?style=for-the-badge&logo=github)](https://github.com/bakaprince/)
+[![GitHub](https://img.shields.io/badge/GitHub-Vikas-black?style=for-the-badge&logo=github)](https://github.com/itsfoxxy08)
+[![GitHub](https://img.shields.io/badge/GitHub-Abhishek-black?style=for-the-badge&logo=github)](https://github.com/18-abhishek)
 [![Demo](https://img.shields.io/badge/Live%20Demo-AgriSure-green?style=for-the-badge&logo=netlify)](https://agrisure-f3.netlify.app/)
 
 ---
