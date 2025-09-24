@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* AgriSure Design System - Agricultural Transparency Platform
+All colors MUST be HSL for consistent theming.
+*/
+
+@layer base {
+  :root {
+    --background: 210 20% 98%;
+    --foreground: 210 11% 15%;
+
+    --card: 210 20% 98%;
+    --card-foreground: 210 11% 15%;
+
+    --popover: 210 20% 98%;
+    --popover-foreground: 210 11% 15%;
+
+    /* Agricultural Green Theme */
+    --primary: 138 76% 32%;
+    --primary-foreground: 210 20% 98%;
+    
+    --primary-light: 138 60% 45%;
+    --primary-dark: 138 80% 25%;
+
+    --secondary: 138 25% 92%;
+    --secondary-foreground: 138 76% 32%;
+
+    --muted: 210 30% 94%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 138 35% 90%;
+    --accent-foreground: 138 76% 25%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 20% 98%;
+
+    --warning: 43 96% 56%;
+    --warning-foreground: 21 92% 14%;
+
+    --success: 138 76% 32%;
+    --success-foreground: 210 20% 98%;
+
+    --info: 217 91% 60%;
+    --info-foreground: 210 20% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 138 76% 32%;
+
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(138 76% 32%), hsl(138 60% 45%));
+    --gradient-hero: linear-gradient(135deg, hsl(138 76% 32% / 0.9), hsl(138 80% 25% / 0.8));
+    --gradient-success: linear-gradient(135deg, hsl(138 76% 32%), hsl(138 60% 40%));
+    
+    /* Shadows */
+    --shadow-sm: 0 1px 2px hsl(138 76% 32% / 0.05);
+    --shadow-md: 0 4px 6px -1px hsl(138 76% 32% / 0.1);
+    --shadow-lg: 0 10px 15px -3px hsl(138 76% 32% / 0.1);
+    --shadow-glow: 0 0 20px hsl(138 76% 32% / 0.2);
+
+    --radius: 0.5rem;
+
+    /* Transitions */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-bounce: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+
+    --sidebar-background: 210 20% 96%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 210 20% 98%;
+    --sidebar-accent: 210 25% 92%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 210 25% 88%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 138 60% 45%;
+    --primary-foreground: 0 0% 0%;
+    --primary-light: 138 50% 55%;
+    --primary-dark: 138 70% 35%;
+
+    --secondary: 138 25% 15%;
+    --secondary-foreground: 138 60% 85%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 138 35% 20%;
+    --accent-foreground: 138 60% 80%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --warning: 43 96% 56%;
+    --warning-foreground: 21 92% 14%;
+
+    --success: 138 60% 45%;
+    --success-foreground: 0 0% 0%;
+
+    --info: 217 91% 60%;
+    --info-foreground: 0 0% 100%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 138 60% 45%;
+    
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
