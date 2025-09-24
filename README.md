@@ -4,11 +4,27 @@
 
 A comprehensive platform designed to eliminate corruption and increase transparency in government schemes for farmers.
 
-## Team Members
+## 🏆 Team F3 - The Innovators
 
-- **Sudeep Kushwaha** - FullStack Developer
-- **Abhishek** - Research & Data Management
-- **Vikas Choudhary** - FrontEnd Developer & UI/UX Designer 
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="e" alt="Sudeep"/>
+<br><strong>FullStack Developer</strong>
+<br>🔧 Backend Architecture & API Development
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎨-VIKAS%20CHOUDHARY-green?style=for-the-badge" alt="Vikas"/>
+<br><strong>Frontend Developer & UI/UX Designer</strong>
+<br>🎨 User Experience & Interface Design
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📊-ABHISHEK-orange?style=for-the-badge" alt="Abhishek"/>
+<br><strong>Research & Data Management</strong>
+<br>📈 Data Analytics & Research
+</td>
+</tr>
+</table>
 
 
 ## Demo Deployment
