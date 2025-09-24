@@ -116,6 +116,11 @@ This project is optimized for deployment on:
 - Netlify  
 
 
+##Future Plans
+-Will Add Multiple Native Languages
+-KYC Verification Status
+-More Personalised MSP Dashboard 
+
 ## Mission Statement
 
 **"Empowering farmers through transparency, eliminating corruption, and ensuring direct access to government benefits."**
