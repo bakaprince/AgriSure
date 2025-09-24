@@ -34,12 +34,7 @@
 </td>
 </tr>
 </table>
-
-
-## Demo Deployment
-
-https://agrisure-f3.netlify.app/
-
+---
 
 ## 🚀 Project Overview
 
