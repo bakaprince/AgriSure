@@ -6,7 +6,7 @@ A comprehensive platform designed to eliminate corruption and increase transpare
 
 ## Team Members
 
-- **Sudeep Kushwaha** - BackEnd Developer
+- **Sudeep Kushwaha** - FullStack Developer
 - **Abhishek** - Research & Data Management
 - **Vikas Choudhary** - FrontEnd Developer & UI/UX Designer 
 
