@@ -16,9 +16,21 @@ A comprehensive platform designed to eliminate corruption and increase transpare
 https://agrisure-f3.netlify.app/
 
 
-## Project Overview
+## 🚀 Project Overview
 
-AgriSure is a revolutionary platform that bridges the gap between farmers and government agricultural schemes, ensuring transparency and eliminating corruption in the process.
+**AgriSure** is a revolutionary digital platform that **eliminates corruption** and **ensures transparency** in government agricultural schemes. Our solution directly addresses the ₹1.5 lakh crore agricultural subsidy distribution challenge in India.
+
+### 🎯 Problem We're Solving
+- **₹50,000+ crores** lost annually due to corruption in agricultural schemes
+- **60% of farmers** unaware of eligible government benefits
+- **Middlemen exploitation** reducing farmer profits by 30-40%
+- **Lack of transparency** in scheme allocation and distribution
+
+### 💡 Our Solution Impact
+- **Direct farmer-government connection** eliminating middlemen
+- **Real-time transparency** in all transactions
+- **AI-powered recommendations** for maximum benefit utilization
+- **Secure corruption reporting** with legal protection
 
 ## ✨ Revolutionary Features
 
