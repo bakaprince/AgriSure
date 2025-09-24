@@ -10,6 +10,12 @@ A comprehensive platform designed to eliminate corruption and increase transpare
 - **Abhishek** - Research & Data Management
 - **Vikas Choudhary** - FrontEnd Developer & UI/UX Designer 
 
+
+## Demo Deployment
+
+https://agrisure-f3.netlify.app/
+
+
 ## Project Overview
 
 AgriSure is a revolutionary platform that bridges the gap between farmers and government agricultural schemes, ensuring transparency and eliminating corruption in the process.
