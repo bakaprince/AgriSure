@@ -1,8 +1,17 @@
-# AgriSure - Farmer Transparency Platform
+# 🌾 AgriSure - Farmer Transparency Platform
 
-**Team F3 Hackathon Project**
+<div align="center">
 
-A comprehensive platform designed to eliminate corruption and increase transparency in government schemes for farmers.
+![AgriSure Banner](https://img.shields.io/badge/🏆%20HACKATHON%20PROJECT-AgriSure%20by%20Team%20F3-green?style=for-the-badge)
+
+[![Live Demo](https://img.shields.io/badge/🌐%20LIVE%20DEMO-agrisure--f3.netlify.app-blue?style=for-the-badge&logo=netlify)](https://agrisure-f3.netlify.app/)
+[![GitHub](https://img.shields.io/badge/📂%20GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/bakaprince/AgriSure)
+
+**🎯 Eliminating Corruption • Ensuring Transparency • Empowering Farmers**
+
+</div>
+
+---
 
 ## 🏆 Team F3 - The Innovators
 
